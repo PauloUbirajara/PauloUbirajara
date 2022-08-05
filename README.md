@@ -1,4 +1,4 @@
-📖 Cursando o 7º semestre em Ciência da Computação 
+📖 Cursando o 8º semestre em Ciência da Computação 
 <br>
 📖 Programando e desenvolvendo projetos pessoais nas horas vagas
 <br>
