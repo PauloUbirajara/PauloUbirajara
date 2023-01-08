@@ -1,4 +1,4 @@
-### 📖 Cursando o 8º semestre em Ciência da Computação
+### 📖 Bacharel em Ciência da Computação
 #### 📖 Programando e desenvolvendo projetos pessoais nas horas vagas
 
 <div align="center">  
